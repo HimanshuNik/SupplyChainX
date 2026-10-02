@@ -1,0 +1,12 @@
+{
+  "name": "supplychainx-root",
+  "version": "1.0.0",
+  "description": "SupplyChainX - Multi-Warehouse Inventory, Procurement & Sales Management Platform",
+  "scripts": {
+    "install:all": "npm install --prefix backend && npm install --prefix frontend",
+    "dev:backend": "npm run dev --prefix backend",
+    "dev:frontend": "npm run dev --prefix frontend",
+    "seed": "npm run seed --prefix backend"
+  },
+  "keywords": ["inventory", "supply-chain", "procurement", "erp", "mern"]
+}
