@@ -1,12 +1,12 @@
 # SupplyChainX 🚀
 ### Enterprise Multi-Warehouse Inventory, Procurement & Sales Management Platform
 
-> **College Major Project / Capstone Project**  
+> ** Major Project**  
 > Built as a production-grade enterprise MERN architecture featuring a closed-loop business workflow rather than disconnected CRUD pages.
 
 ---
 
-## 🌟 The Interconnected Business Story (College Viva Demo)
+## 🌟 The Interconnected Business Story  
 
 Traditional student projects show isolated tables. **SupplyChainX** demonstrates a real enterprise state machine where every action cascades across departments:
 
