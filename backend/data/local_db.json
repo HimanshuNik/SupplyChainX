@@ -5,7 +5,7 @@
       "name": "Rahul Sharma",
       "email": "admin@supplychainx.com",
       "phone": "+91 98765 43210",
-      "password": "$2a$10$3GyzHPfr0UYoPEDd2u5Rn.JmtMYEouZ4sVxTvwh1MJLsbhp8TcKCC",
+      "password": "$2a$10$JuQDW3397QkX1y1uL1A3Lu7ko3HB1s9MseVaHYwgunR6W.bDfb/Hu",
       "role": "Admin",
       "status": "Active",
       "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
@@ -17,7 +17,7 @@
       "name": "Amit Verma",
       "email": "amit@supplychainx.com",
       "phone": "+91 98765 11223",
-      "password": "$2a$10$9PIpiSaPqI4MXphgAnFKaebhBEwhbWSfTxTmUHL5PeQkBzRfOVe9K",
+      "password": "$2a$10$tCMkJuG9e1xL6sO7gN/PTua/8S8.F0mv4d4WOCRpHg6Aw.JsYemU2",
       "role": "Inventory Manager",
       "status": "Active",
       "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
@@ -29,7 +29,7 @@
       "name": "Vikram Singh",
       "email": "vikram@supplychainx.com",
       "phone": "+91 98765 33445",
-      "password": "$2a$10$PfznqbpCzfTm64Ei4iVYM.dnDKMvNOrjgPMI5g/8LbslNpDenS1U.",
+      "password": "$2a$10$A2TfDQ2V0FrlT0frouso3u0YYbn1U8C/eWzOqPQOdYpXPihy/nGGy",
       "role": "Purchase Manager",
       "status": "Active",
       "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80",
@@ -41,7 +41,7 @@
       "name": "Priya Patel",
       "email": "priya@supplychainx.com",
       "phone": "+91 98765 55667",
-      "password": "$2a$10$rdzAGdDMdk7DgWqZCvEWbehapB1MuaHPCK5XXf/AJd63iRSuCCf2u",
+      "password": "$2a$10$Jhg9SZd8Zlz6RDh5KWK8Qe1uvzvytvdA6qFTTlE14SWE.qmuM70oi",
       "role": "Sales Manager",
       "status": "Active",
       "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
@@ -779,7 +779,7 @@
       "module": "INVENTORY",
       "link": "/inventory/products",
       "isRead": false,
-      "createdAt": "2026-10-01T17:14:53.168Z"
+      "createdAt": "2026-10-02T06:56:01.663Z"
     },
     {
       "_id": "notif_2",
@@ -789,7 +789,7 @@
       "module": "PROCUREMENT",
       "link": "/procurement/orders",
       "isRead": false,
-      "createdAt": "2026-10-01T14:14:53.168Z"
+      "createdAt": "2026-10-02T03:56:01.663Z"
     },
     {
       "_id": "notif_3",
@@ -799,7 +799,7 @@
       "module": "SALES",
       "link": "/sales/invoices",
       "isRead": true,
-      "createdAt": "2026-09-30T19:14:53.168Z"
+      "createdAt": "2026-10-01T08:56:01.663Z"
     },
     {
       "_id": "notif_4",
@@ -809,12 +809,12 @@
       "module": "INVENTORY",
       "link": "/inventory/warehouses",
       "isRead": true,
-      "createdAt": "2026-09-29T19:14:53.168Z"
+      "createdAt": "2026-09-30T08:56:01.663Z"
     }
   ],
   "auditLogs": [
     {
-      "_id": "id_1790882892080_cnxvx",
+      "_id": "id_1790931394879_qhwsa",
       "action": "User logged in",
       "module": "AUTH",
       "user": "Rahul Sharma",
@@ -823,9 +823,9 @@
         "email": "admin@supplychainx.com"
       },
       "ipAddress": "127.0.0.1",
-      "timestamp": "2026-10-01T19:28:12.080Z",
-      "createdAt": "2026-10-01T19:28:12.080Z",
-      "updatedAt": "2026-10-01T19:28:12.080Z"
+      "timestamp": "2026-10-02T08:56:34.879Z",
+      "createdAt": "2026-10-02T08:56:34.879Z",
+      "updatedAt": "2026-10-02T08:56:34.879Z"
     },
     {
       "_id": "log_1",
